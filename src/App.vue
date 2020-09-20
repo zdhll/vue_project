@@ -40,6 +40,7 @@
 .app-container {
   padding-top: 40px;
   overflow-X: hidden;
+  padding-bottom: 50px;
 }
 
 .v-enter{

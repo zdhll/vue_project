@@ -2,11 +2,8 @@
   <div>
     <ul class="mui-table-view">
       <li class="mui-table-view-cell mui-media">
-        <a href="javascript:;">
-          <img
-            class="mui-media-object mui-pull-left"
-            src="https://avatars1.githubusercontent.com/u/67267330?s=60&v=4"
-          />
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
           <div class="mui-media-body">
             <h1>幸福</h1>
             <p class="mui-ellipsis">
@@ -14,14 +11,11 @@
               <span>点击：0次</span>
             </p>
           </div>
-        </a>
+        </router-link>
       </li>
       <li class="mui-table-view-cell mui-media">
-        <a href="javascript:;">
-          <img
-            class="mui-media-object mui-pull-left"
-            src="https://avatars1.githubusercontent.com/u/67267330?s=60&v=4"
-          />
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
           <div class="mui-media-body">
             <h1>幸福</h1>
             <p class="mui-ellipsis">
@@ -29,14 +23,11 @@
               <span>点击：0次</span>
             </p>
           </div>
-        </a>
+        </router-link>
       </li>
       <li class="mui-table-view-cell mui-media">
-        <a href="javascript:;">
-          <img
-            class="mui-media-object mui-pull-left"
-            src="https://avatars1.githubusercontent.com/u/67267330?s=60&v=4"
-          />
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
           <div class="mui-media-body">
             <h1>幸福</h1>
             <p class="mui-ellipsis">
@@ -44,23 +35,179 @@
               <span>点击：0次</span>
             </p>
           </div>
-        </a>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
+      </li>
+      <li class="mui-table-view-cell mui-media">
+        <router-link to="/home/newslist/newsinfo">
+          <img class="mui-media-object mui-pull-left" src="../../static/4.png" />
+          <div class="mui-media-body">
+            <h1>幸福</h1>
+            <p class="mui-ellipsis">
+              <span>发表时间：2020.12.12</span>
+              <span>点击：0次</span>
+            </p>
+          </div>
+        </router-link>
       </li>
     </ul>
   </div>
 </template>>
 
 <script>
+import Toast from "mint-ui";
+
 export default {
   data() {
-    return {};
+    return {
+      // newslist: []
+    };
   },
   created() {
-    this.$http.get("http://localhost:3000/api/news").then((response) => {
-      console.log(response);
-    });
+    // this.getNewsList();
   },
-  methods: {},
+  methods: {
+    /* getNewsList(){
+      this.$http.get('/api/getnewslist').then(result => {
+        if(result.body.status === 0){
+          this.newslist = result.body.message;
+        } else {
+          Toast('获取新闻列表失败！')
+        }
+      })
+    } */
+  },
 };
 </script>
 
