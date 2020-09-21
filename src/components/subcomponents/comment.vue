@@ -43,7 +43,7 @@ export default {
             var comment = { id: Date.now(), date: Date.now(), content: this.content };
 
             var list = JSON.parse(localStorage.getItem('cmts') || '[]');
-            list.push(comment);
+            list.unshift(comment);
             localStorage.setItem('cmts', JSON.stringify(list));
             this.content = '';
             this.loadComments();
